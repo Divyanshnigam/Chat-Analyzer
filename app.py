@@ -57,6 +57,10 @@ if uploaded_file is not None:
                 st.dataframe(new_df)
 
          # wordcloud
-        df_wc = help.create
+        df_wc = help.create_wordcloud(selected_user,df)
+        fig , ax = plt.subplots()
+        ax.imshow(df_wc)
+        st.pyplot(fig)
+
 
 
