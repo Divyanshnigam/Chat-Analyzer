@@ -1,8 +1,5 @@
 # **📊 WhatsApp Chat Analyzer**  
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-![Project Status](https://img.shields.io/badge/status-Active-brightgreen)  
-![Contributions](https://img.shields.io/badge/contributions-welcome-orange)  
 
 🚀 **WhatsApp Chat Analyzer** is a powerful tool designed to analyze both **group and individual** WhatsApp chats. It provides insights into **chat activity, user behavior, and agent performance** using various analytical reports like **buzzwords, activity maps, word clouds, and graphical visualizations**.  
 
